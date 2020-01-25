@@ -13,7 +13,6 @@ You will find here both C++ as well as Python implementations of the following :
     - Djikstra Shortest Path First Algo
     - Merge Sort
     - Prim's Minimal Spanning Tree
-    - 
 * Sine Cosine Curve
 * Guess The Number
 
