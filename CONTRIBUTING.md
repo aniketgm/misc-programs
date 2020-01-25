@@ -39,7 +39,7 @@ Well, let me tell you my way of learning.
 
   Compare, not as in line by line comparison, rather understand how the googled program is written vs the one you've written.
   
-  Like for example, what api's are being used in the google copy, how loops are handled, use of various libraries, etc. Both the programs have the same logic written, the different lies in the way it's written.
+  Like for example, what api's are being used in the google copy, how loops are handled, use of various libraries, etc. Both the programs have the same logic written, however the different lies in the way it's written.
 
 More points coming soon.
 
