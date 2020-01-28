@@ -5,16 +5,16 @@
 This repo contains programs that I've written as part of my learning of Python and C++ [Python mostly].
 You will find here both C++ as well as Python implementations of the following :
 
-* Alpha Triangle
-* Rock-Paper-Scissor Game
-* Convert Standard Numbers to Roman Numerals
-* Algo's
-    - Binary Search
-    - Djikstra Shortest Path First Algo
-    - Merge Sort
-    - Prim's Minimal Spanning Tree
-* Sine Cosine Curve
-* Guess The Number
+- [x] Alpha Triangle
+- [x] Rock-Paper-Scissor Game
+- [ ] Convert Standard Numbers to Roman Numerals
+- [ ] Algo's
+    - [ ] Binary Search
+    - [ ] Djikstra Shortest Path First Algo
+    - [ ] Merge Sort
+    - [ ] Prim's Minimal Spanning Tree
+- [ ] Sine Cosine Curve
+- [x] Guess The Number
 
 ### Running the programs
 
@@ -41,4 +41,8 @@ Note: \<program\_name\> means the just the name of the program and not the exten
 ## Contributing
 
 Please visit [Contributing guidelines](CONTRIBUTING.md) for the process I'm following to contribute in this repo.
+
+#### Log
+
+[28-Jan-2020] As of this writing, all programs are not on board. Still programming ...
 
