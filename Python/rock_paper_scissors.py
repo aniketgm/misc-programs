@@ -19,10 +19,9 @@ def printRules():
     print('')
     print(' 3 Rounds. Choices: Rock | Paper | Scissor')
 
-def getRoundWinner(ans1, ans2):
-    gameRules = [ ['Rock','Paper'], ['Paper','Scissor'], ['Scissor','Rock'] ]
+def getRoundWinner(ans1, ans2, rules):
     try:
-        return gameRules.index([ans1,ans2]) 
+        return rules.index([ans1,ans2]) 
     except ValueError:
         return -1
 
@@ -42,9 +41,10 @@ def main():
             print(' Wrong answer. Please choose among \'Rock\', \'Paper\', Or \'Scissor\'')
             continue
         print(' Computer\'s choice: ' + CompAns)
-        if getRoundWinner(CompAns, UserAns) >= 0:
+        gameRules = [ ['Rock','Paper'], ['Paper','Scissor'], ['Scissor','Rock'] ]
+        if getRoundWinner(CompAns, UserAns, gameRules) >= 0:
             UserWin += 1
-        elif getRoundWinner(UserAns, CompAns) >= 0:
+        elif getRoundWinner(UserAns, CompAns, gameRules) >= 0:
             CompWin += 1
         cntr += 1
     if CompWin > UserWin:
