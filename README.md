@@ -44,5 +44,6 @@ Please visit [Contributing guidelines](CONTRIBUTING.md) for the process I'm foll
 
 #### Log
 
-[28-Jan-2020] As of this writing, all programs are not on board. Still programming ...
+| [28-Jan-2020] | As of this writing, all programs are not on board. Only the tick one's are complete.
+                  For other's i'm still in the process of writing and testing.
 
