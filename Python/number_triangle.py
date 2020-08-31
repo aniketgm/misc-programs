@@ -12,12 +12,10 @@ def print_num_triangle():
     print()
     for a in range(1, 6):
         print(' ' * (num * 2 - 1), end=' ')
-        num -= 1
-        for cnt in range(1, a):
-            print(cnt, sep=' ', end=' ')
-        for cnt in range(a, 0, -1):
-            print(cnt, sep=' ', end=' ')
+        print(*[i for i in range(1, a+1)], sep=' ', end=' ')
+        print(*[i for i in range(a-1, 0, -1)], sep=' ', end=' ')
         print()
+        num -= 1
     print()
 
 if __name__ == '__main__':
