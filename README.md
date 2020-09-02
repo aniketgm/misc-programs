@@ -1,4 +1,4 @@
-# Python and C++ Miscellaneous Programs
+# Miscellaneous Python Programs
 
 ## Overview
 
@@ -20,18 +20,6 @@ For running python programs, first you should have Python installed (recommended
    $ python <program_name>.py
 
    ```
-
-For running C++ Programs, install g++ (just google 'Installing g++') and follow the steps. It's pretty simple
-And then do the following :
-
-   ```bash
-
-   $ g++ <program_name>.cpp -o <program_name>
-   $ ./<program_name>
-   
-   ```
-
-Note: \<program\_name\> means the just the name of the program and not the extension.
 
 ## Contributing
 
