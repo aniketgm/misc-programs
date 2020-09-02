@@ -7,12 +7,7 @@ You will find here both Python as well as C++ implementations of the following :
 
 - [x] Alpha Triangle
 - [x] Rock-Paper-Scissor Game
-- [ ] Convert Standard Numbers to Roman Numerals
-- [ ] Algo's
-    - [ ] Binary Search
-    - [ ] Djikstra Shortest Path First Algo
-    - [ ] Merge Sort
-    - [ ] Prim's Minimal Spanning Tree
+- [x] Convert Standard Numbers to Roman Numerals
 - [ ] Sine Cosine Curve
 - [x] Guess The Number
 
