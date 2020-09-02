@@ -1,7 +1,7 @@
 # Dice Rolling Simulator Program
 
 def rollTheDice():
-    pass
+    print("Rolling the dice!! ...")
 
 if __name__ == '__main__':
     rollTheDice()
