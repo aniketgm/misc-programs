@@ -1,6 +1,6 @@
 # Contributing and Learning
 
-First of all, A million thanks for deciding to contribute here.
+First of all, A thanks a lot for deciding to contribute here.
 
 So yes, that's my title, It's not just contributing but learning as well. Please feel free to suggest edits or adding a program for anything you would like to have a program about.
 
@@ -34,12 +34,11 @@ Well, let me tell you my way of learning.
 
 - **Google the program and save the code as a benchmark for comparison**
   
-  But then again, why shouldn't I just copy paste instead wasting time. I would say no, learning is never wasting time. Remember Colonel Sanders, he founded KFC at 65. Isn't that amazing. You only learn by doing, not by viewing. Take out time for doing all this.
+  But then again, why shouldn't I just copy paste instead of wasting time typing all that code. I would say no, learning is never wasting time. You only learn by doing, not by viewing. Take out time for doing all this.
+
 - **After you've done writing your piece of code. Compare your's with the copy you googled.**
 
   Compare, not as in line by line comparison, rather understand how the googled program is written vs the one you've written.
   
   Like for example, what api's are being used in the google copy, how loops are handled, use of various libraries, etc. Both the programs have the same logic written, however the different lies in the way it's written.
-
-More points coming soon.
 
