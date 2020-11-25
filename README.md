@@ -2,8 +2,8 @@
 
 ## Overview
 
-This repo contains programs that I've written as part of my learning of Python and C++ [Python mostly].
-You will find here both Python as well as C++ implementations of the following :
+This repo contains programs that I've written as part of my learning of Python [Python mostly].
+You will find here Python implementations of the following :
 
 - [x] Alpha Triangle
 - [x] Rock-Paper-Scissor Game
